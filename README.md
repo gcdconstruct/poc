@@ -12,4 +12,4 @@
 ![0009](https://user-images.githubusercontent.com/54185797/65105829-6cb27280-da00-11e9-98f3-6e766a9e2c81.jpg)
 ![0010](https://user-images.githubusercontent.com/54185797/65105830-6cb27280-da00-11e9-8e89-cc1a5fde9251.jpg)
 
-[Download Proof of Concept](https://github.com/itsmecevi/lebenslauf/blob/master/Lebenslauf.pdf)
+[Download Proof of Concept](https://github.com/gcdconstruct/poc/blob/gh-pages/poc.pdf)
